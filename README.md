@@ -37,13 +37,13 @@ Hi, I'm **Jayesh Gavit**! 👋<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayeshgavit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN)<br/>
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jayeshgavit&theme=radical&hide_border=true&token=YOUR_GITHUB_TOKEN)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshgavit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&token=YOUR_GITHUB_TOKEN)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayeshgavit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN)](https://github.com/Jayeshgavit)  <br/>
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jayeshgavit&theme=radical&hide_border=true&token=YOUR_GITHUB_TOKEN)](https://github.com/Jayeshgavit)  <br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshgavit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&token=YOUR_GITHUB_TOKEN)](https://github.com/Jayeshgavit)
 
 ---
+
 
 
 ### ✍️ Random Dev Quote:
