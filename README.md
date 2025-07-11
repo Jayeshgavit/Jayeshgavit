@@ -62,19 +62,3 @@ Hi, I'm **Jayesh Gavit** 👋
 [![](https://visitcount.itsvg.in/api?id=Jayeshgavit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-### ✅ Suggestions for You:
-
-- ✅ Add pinned repos with your best projects (SmartTools, QuoteVerse, IoT)
-- ✅ Use GitHub Actions for auto-update stats if you're into automation
-- ✅ Link portfolio: Add `[jayeshgavit.tech](https://jayeshgavit.tech)` (when ready)
-
----
-
-If you want I can also:
-- Help you write great README.md files for each **project repo**  
-- Organize your GitHub repos with topics, descriptions, and images  
-- Create a GitHub profile portfolio site (`Jayeshgavit.github.io`)  
-
-Let me know what you want next — GitHub repo README templates? Portfolio action plan? Markdown for projects?  
-I’m here, bhai — let’s keep building! 💻🚀
