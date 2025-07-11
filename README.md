@@ -39,23 +39,7 @@ Hi, I'm **Jayesh Gavit** 👋
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
 
-## 📊 GitHub Stats:
-
-> ⚠️ Replace `YOUR_GITHUB_TOKEN` with your actual GitHub token in private projects to view full stats.
-
-| 📈 Stats | 🔁 Streak | 🔤 Top Languages |
-|---------|-----------|-----------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Jayeshgavit&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayeshgavit&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshgavit&theme=radical&hide_border=true&layout=compact) |
-
----
-
-## 🔝 Top Contributed Repos:
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Jayeshgavit&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
 
 ## 🔢 Profile Views:
 
