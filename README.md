@@ -1,13 +1,17 @@
-# 💫 About Me:
-Hi, I'm **Jayesh Gavit** 👋  
-🎓 I'm currently pursuing a **Bachelor's degree in Information Technology** at **MVPS’s KBT COE, Nashik**, and I hold a **Diploma in Computer Technology** from **K.K. Wagh Polytechnic, Nashik** with 85.77%.  
-📈 Final Year SGPA: **9.47**, Overall CGPA: **8.60**
+# Hi there 👋, I'm Jayesh Gavit
 
-🚀 I'm a tech enthusiast who loves exploring new tools and technologies. Currently diving deeper into **Python** and frontend development using **HTML, CSS, and JavaScript**.
+🎓 I have **completed my Bachelor's in Information Technology** from **MVPS’s KBT COE, Nashik**  
+💻 **Diploma in Computer Technology** from **K.K. Wagh Polytechnic, Nashik** – 85.77%  
 
-🌱 As a passionate learner and fresher, I'm always eager to take on challenges and contribute to real-world projects that solve meaningful problems.
+📊 **Final Year SGPA (BE): 9.38** | **Final CGPA (BE): 8.48**
 
-🎮 **Hobbies:** Coding, playing games, and listening to audiobooks.
+🚀 I'm a tech enthusiast exploring **Python**, **HTML**, **CSS**, and **JavaScript**.  
+🌱 Eager to take on challenges and contribute to real-world projects.
+
+🎮 **Hobbies:** Coding, gaming, and listening to audiobooks.
+
+🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+🌐 **Website:** [jayeshgavit.xyz](https://jayeshgavit.xyz)
 
 ---
 
