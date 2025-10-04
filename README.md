@@ -10,7 +10,7 @@
 
 🎮 **Hobbies:** Coding, gaming, and listening to audiobooks.
 
-🔗 **GitHub:** [github.com/yourusername](https://github.com/Jayeshgavit)
+🔗 **GitHub:** [github.com/Jayeshgavite](https://github.com/Jayeshgavit)
 🌐 **Website:** [jayeshgavit.xyz](https://jayeshgavit.xyz)
 
 ---
