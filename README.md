@@ -40,6 +40,15 @@ My main focus is **full-stack development**. I've also worked with AWS, Docker, 
 | **💻 DevFlow** | Windows desktop developer tool for local workflows and logs; still in development. Tauri, Rust, React. | [Source ↗](https://github.com/Jayeshgavit/DevFlow) |
 | **🛡️ FraudShield** | Collaborative fraud detection application with React, Node.js, Python, and PostgreSQL. | Collaborative project |
 
+### `> source --inspect`
+
+Want to look at the code? Start with these public repositories:
+
+- **[DevFlow](https://github.com/Jayeshgavit/DevFlow)** — a Tauri, Rust, and React desktop project for managing local development services. The README documents its current limitations.
+- **[SmartTools](https://github.com/Jayeshgavit/SmartTools-Django-Website-)** — a Django utility project with image and PDF compression tools.
+
+My live products above link to their deployed sites. Some of their source repositories are private, so the public projects here are the best places to inspect code.
+
 ### `> github --activity`
 
 <div align="center">
