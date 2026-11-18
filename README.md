@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Explore_Portfolio-39DFA1?style=for-the-badge&logo=vercel&logoColor=071711)](https://www.jayeshgavit.in/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-gavit-47ni/)
-[![Email](https://img.shields.io/badge/See_My_Work-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayeshgavit?tab=repositories)
+[![Repositories](https://img.shields.io/badge/See_My_Work-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayeshgavit?tab=repositories)
 
 </div>
 
