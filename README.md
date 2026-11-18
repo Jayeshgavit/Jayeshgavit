@@ -1,52 +1,117 @@
-# Hi there 👋, I'm Jayesh Gavit
 
-🎓 I have **completed my Bachelor's in Information Technology** from **MVPS’s KBT COE, Nashik**  
-💻 **Diploma in Computer Technology** from **K.K. Wagh Polytechnic, Nashik** – 85.77%  
+# Hey, I'm Jayesh Gavit 👋
 
-📊 **Final Year SGPA (BE): 9.38** | **Final CGPA (BE): 8.48**
+### Full-Stack Developer | Python | React | Next.js
 
-🚀 I'm a tech enthusiast exploring **Python**, **HTML**, **CSS**, and **JavaScript**.  
-🌱 Eager to take on challenges and contribute to real-world projects.
+I’m a software developer who enjoys building practical web applications, developer tools, and useful products.
 
-🎮 **Hobbies:** Coding, gaming, and listening to audiobooks.
+My primary stack includes **React, Next.js, TypeScript, Python, FastAPI, and PostgreSQL**. I enjoy working across the stack — from designing responsive interfaces and building APIs to integrating databases, debugging issues, and deploying applications.
 
-🔗 **GitHub:** [github.com/Jayeshgavit](https://github.com/Jayeshgavit)
-🌐 **Website:** [jayeshgavit.xyz](https://jayeshgavit.xyz)
+I also have hands-on project experience with **Docker, AWS, Terraform, and GitHub Actions**.
 
----
+Currently focused on improving my software engineering skills, building independent projects, and exploring new opportunities.
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayesh_gavit_47) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-gavit-47ni) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/eBJZ9IInS) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Jayesh-758) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsmejayesh-mh15)
+**[Portfolio](https://www.jayeshgavit.in/)** · **[LinkedIn](https://www.linkedin.com/in/jayesh-gavit-47ni/)** · **[GitHub](https://github.com/Jayeshgavit)**
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css)
 
+**Frontend**
 
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
-## 🔢 Profile Views:
+**Backend & Database**
 
-[![](https://visitcount.itsvg.in/api?id=Jayeshgavit&icon=0&color=0)](https://visitcount.itsvg.in)
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase)
+
+**Cloud, DevOps & Tools**
+
+![Tools](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,git,github,vercel)
 
 ---
+
+## 🚀 Featured Projects
+
+### 📊 StatFlare — Analytics & Web Tools
+**Next.js · TypeScript · Python · FastAPI · PostgreSQL**
+
+A full-stack platform featuring website monitoring, analytics, and practical utilities for developers and everyday users.
+
+- Built frontend interfaces and backend APIs.
+- Integrated authentication, databases, and background processing.
+- Implemented website monitoring and email alerts.
+- Deployed services using Vercel and Render.
+
+**[Live Website](https://statflare.in/)**
+
+### 🛍️ SortedChoice — Product Discovery Platform
+**Next.js · TypeScript · FastAPI · PostgreSQL · Supabase**
+
+A product discovery platform designed to help users explore and compare products.
+
+- Developed product listings, search, and category browsing.
+- Built backend APIs and database integrations.
+- Implemented authentication and user review functionality.
+- Deployed frontend and backend services independently.
+
+**[Live Website](https://sortedchoice.com/)**
+
+### 📚 JG Blogs — Multilingual Content Platform
+**Next.js · React · TypeScript**
+
+A multilingual platform for educational content, articles, and learning resources.
+
+- Supports English, Hindi, and Marathi content.
+- Includes educational resources and competitive-exam preparation material.
+- Focuses on responsive design and accessible content.
+
+**[Live Website](https://www.jgblogs.com/)**
+
+### 💻 DevFlow — Desktop Developer Tool
+**Tauri · Rust · React · TypeScript**
+
+A Windows desktop application under development to simplify local development workflows.
+
+- Working on backend process management and error logging.
+- Building developer-focused workflow utilities.
+- Exploring lightweight desktop architecture and interfaces.
+
+### 🛡️ FraudShield — Fraud Detection Application
+**React · Node.js · Python · PostgreSQL**
+
+A collaborative application combining frontend development, backend APIs, and a Python machine-learning service for fraud detection.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Information Technology**  
+MVPS's KBT College of Engineering, Nashik  
+CGPA: 8.48 | Final Year SGPA: 9.38
+
+**Diploma — Computer Technology**  
+K. K. Wagh Polytechnic, Nashik  
+Percentage: 85.77%
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jayeshgavit&theme=transparent&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities in **Full-Stack Development, Software Development, and Python Development**, and also interested in IT Support roles involving technical troubleshooting.
+
+Feel free to explore my projects or connect with me.
+
+🌐 **Portfolio:** https://www.jayeshgavit.in/  
+💼 **LinkedIn:** https://www.linkedin.com/in/jayesh-gavit-47ni/  
+💻 **GitHub:** https://github.com/Jayeshgavit
