@@ -36,9 +36,13 @@ My main focus is **full-stack development**. I've also worked with AWS, Docker, 
 | :--- | :--- | :--- |
 | **📊 StatFlare** | Public creator analytics, website diagnostics, and free web tools. Next.js, TypeScript, FastAPI, PostgreSQL. | [Explore StatFlare ↗](https://www.statflare.in/) |
 | **🛍️ SortedChoice** | Product discovery with browsing, search, authentication, and reviews. Next.js, FastAPI, Supabase. | [Live site ↗](https://sortedchoice.com/) |
-| **📚 JG Blogs** | Multilingual articles and learning resources in English, Hindi, and Marathi. Next.js and TypeScript. | [Live site ↗](https://www.jgblogs.com/) |
+| **📚 JG Blogs** | Multilingual publishing, MPSC geography lessons, interactive study maps, and practice in English, Hindi, and Marathi. Next.js and TypeScript. | [Explore JGblogs ↗](https://jgblogs.in/en/) |
 | **💻 DevFlow** | Windows desktop developer tool for local workflows and logs; still in development. Tauri, Rust, React. | [Source ↗](https://github.com/Jayeshgavit/DevFlow) |
 | **🛡️ FraudShield** | Collaborative fraud detection application with React, Node.js, Python, and PostgreSQL. | Collaborative project |
+
+### `> study --explore`
+
+I also build JGblogs for students preparing for Indian competitive exams. Explore its [interactive study maps](https://jgblogs.in/en/maps/), [MPSC geography lessons](https://jgblogs.in/en/geography/), and [geography study collection](https://jgblogs.in/en/downloads/mpsc-group-b-c-geography-study-collection-2026/).
 
 ### `> tools --try`
 
