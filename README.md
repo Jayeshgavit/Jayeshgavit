@@ -34,11 +34,23 @@ My main focus is **full-stack development**. I've also worked with AWS, Docker, 
 
 | Product | What I built | Explore |
 | :--- | :--- | :--- |
-| **📊 StatFlare** | Analytics, website monitoring, and useful web tools. Next.js, TypeScript, FastAPI, PostgreSQL. | [Live site ↗](https://statflare.in/) |
+| **📊 StatFlare** | Public creator analytics, website diagnostics, and free web tools. Next.js, TypeScript, FastAPI, PostgreSQL. | [Explore StatFlare ↗](https://www.statflare.in/) |
 | **🛍️ SortedChoice** | Product discovery with browsing, search, authentication, and reviews. Next.js, FastAPI, Supabase. | [Live site ↗](https://sortedchoice.com/) |
 | **📚 JG Blogs** | Multilingual articles and learning resources in English, Hindi, and Marathi. Next.js and TypeScript. | [Live site ↗](https://www.jgblogs.com/) |
 | **💻 DevFlow** | Windows desktop developer tool for local workflows and logs; still in development. Tauri, Rust, React. | [Source ↗](https://github.com/Jayeshgavit/DevFlow) |
 | **🛡️ FraudShield** | Collaborative fraud detection application with React, Node.js, Python, and PostgreSQL. | Collaborative project |
+
+### `> tools --try`
+
+I build [StatFlare](https://www.statflare.in/), a collection of creator analytics and practical web tools. A few places to start:
+
+| Tool | What you can do |
+| :--- | :--- |
+| [GitHub profile analyzer](https://www.statflare.in/github-profile-analyzer) | Explore a public developer profile, repositories, stars, and languages. |
+| [YouTube watch-hours calculator](https://www.statflare.in/calculators/youtube-watch-hours-calculator) | Estimate watch time from views, video length, and retention. |
+| [YouTube title and description generator](https://www.statflare.in/youtube-title-generator) | Draft title options and a description from your video idea. |
+
+These public tools don't require an account. AI generation has usage limits and depends on provider availability.
 
 ### `> source --inspect`
 
